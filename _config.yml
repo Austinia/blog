@@ -1,7 +1,7 @@
 title:              Austinia's Blog
 email:              vladimir90919@gmail.com
-description:        Blog with KakaoTrack
-author:             Start Bootstrap
+description:        Blog with OpenSourceClass
+author:             Austinia
 baseurl:            "/blog"
 url:                "https://austinia.github.io"
 
@@ -13,7 +13,7 @@ instagram_username:
 linkedin_username:
 
 # Add your google-analytics ID here to activate google analytics
-google_analytics:   UA-XXXXXXXXX-X # out your google-analytics code
+google_analytics:   UA-157813108-1 # out your google-analytics code
 
 # Build settings
 markdown:           kramdown
