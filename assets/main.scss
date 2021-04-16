@@ -3,3 +3,14 @@
 ---
 
 @import "styles";
+
+.category {
+  .active {
+    color: violet;
+  }
+}
+
+.btn-download {
+  color: blue;
+  font-weight: bold;
+}
